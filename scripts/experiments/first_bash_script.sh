@@ -1,4 +1,6 @@
 #!/bin/bash
+# Experimenting with syntax and bash scripting.
+# Status: Learning / non-production
 echo "Today is " `date`
 
 echo -e "\nenter the path to directory"
